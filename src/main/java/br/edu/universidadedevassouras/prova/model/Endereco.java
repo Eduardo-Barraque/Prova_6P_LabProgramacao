@@ -10,7 +10,7 @@ public class Endereco {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long idendereco;
-    @Column(nullable = false)
+    @Column()
     private String CEP;
     @Column
     private String tipo_logradouro;

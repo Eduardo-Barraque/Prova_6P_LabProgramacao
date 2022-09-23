@@ -1,3 +1,29 @@
 {
+  "telefone":{
+    "idtelefone":1,
+    "celular": "5471223154",
+    "fixo": "154752156"
+
+  },
+  "endereco":{
+    "idendereco":1,
+    "cep": "27784-420",
+    "tipo_logradouro":"Publico",
+    "logradouro": "Rua V",
+    "numero": "785",
+    "bairro": "Palmares",
+    "cidade": "Volta Redonda",
+    "estado": "Rio de Janeiro",
+    "pais": "Brasil"
+  },
+  "nome":"tassin",
+  "email": "tassinho@gmail.com",
+  "nascimento": "1987-07-15",
+  "genero": "M",
+  "cpf": 4763264463,
+  "rg": 252421476,
+  "tipo_sangue": "O",
+  "pai": "Cleidson Sirqueira",
+  "mae": "Maria Aparecida Sirqueira"
 
 }
